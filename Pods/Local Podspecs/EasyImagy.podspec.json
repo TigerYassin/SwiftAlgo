@@ -1,0 +1,22 @@
+{
+  "name": "EasyImagy",
+  "version": "0.6.0",
+  "summary": "This app is to work with images",
+  "description": "Working with images is the greatest thing ever in the world",
+  "homepage": "https://github.com/koher/swift-image",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "Yassin": "asdf@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/koher/swift-image.git",
+    "tag": "0.6.0"
+  },
+  "source_files": "Sources/**/*.{swift}"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Testing",
+  "version": "1.0.0",
+  "summary": "The last year this shit has been eating ass",
+  "description": "My Description is righ over here so you can read over it on your free time",
+  "homepage": "https://github.com/TigerYassin/Testing.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yassin": "eai@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/TigerYassin/Testing.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Testing/**/*.{swift}"
+}
